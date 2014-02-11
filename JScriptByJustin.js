@@ -1,4 +1,3 @@
-
 //初始化設定(僅在網頁開啟時載入)
 function initLoad() {
     functionKeyEvent();
